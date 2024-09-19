@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Tahoma';
+}
+body{
+    height: 100%; 
+    min-height: 100%;
+    position: relative;
+
+}
+image{
+    height: 100%;
+    width: 100%;
+}

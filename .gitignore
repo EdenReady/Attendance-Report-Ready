@@ -1,0 +1,26 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+tmp/
+
+# React build files
+node_modules/
+
+# CSV files
+*.csv
+
+# Python virtual environment
+.Python
